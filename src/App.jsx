@@ -8,7 +8,7 @@ import Campus from './components/Campus/Campus'
 import Testimonials from './components/Testimonials/Testimonials'
 import Contact from './components/Email/Contact'
 
-import Videoplayer from './components/videoplayer/Videoplayer'
+import Videoplayer from './components/Playbutton/Videoplayer'
 import Programs from './components/programs/Programs'
 import Footer from './components/Lower/footer'
 
