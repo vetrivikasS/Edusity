@@ -1,15 +1,15 @@
 import React, { Component, useState } from 'react'
-import Navbar from './components/navbar/Navbar'
-import Hero from './components/Hero/Hero'
+import Navbar from './components/navbar/index'
+import Hero from './components/Hero/index'
 
 import Title from './components/Title/Title'
-import About from './components/About/About '
-import Campus from './components/Campus/Campus'
-import Testimonials from './components/Testimonials/Testimonials'
+import About from './components/About/index'
+import Campus from './components/Campus/index'
+import Testimonials from './components/Testimonials/index'
 import Contact from './components/Email/Contact'
 
 
-import Programs from './components/programs/Programs'
+import Programs from './components/programs/index'
 import Footer from './components/Lower/footer'
 import Videoplayer from './components/Playbutton/videoplayer'
 
