@@ -6,11 +6,11 @@ import Title from './components/Title/Title'
 import About from './components/About/index'
 import Campus from './components/Campus/index'
 import Testimonials from './components/Testimonials/index'
-import Contact from './components/Email/Contact'
+import Contact from './components/contact/index'
 
 
 import Programs from './components/programs/index'
-import Footer from './components/Lower/footer'
+import Footer from './components/footer/index'
 import Videoplayer from './components/Playbutton/videoplayer'
 
 
