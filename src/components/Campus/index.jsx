@@ -1,6 +1,6 @@
 
 import React from 'react'
-import './campus.css'
+import './Campus.css'
 import Gallery_1 from '../../assets/gallery-1.png'
 import Gallery_2 from '../../assets/gallery-2.png'
 import Gallery_3 from '../../assets/gallery-3.png'
