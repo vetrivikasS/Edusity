@@ -7,9 +7,10 @@ import About from './components/About/About '
 import Campus from './components/Campus/Campus'
 import Testimonials from './components/Testimonials/Testimonials'
 import Contact from './components/Email/Contact'
-import Footer from './components/footer/Footer'
+
 import Videoplayer from './components/videoplayer/Videoplayer'
 import Programs from './components/programs/Programs'
+import Footer from './components/Lower/footer'
 
 
 
