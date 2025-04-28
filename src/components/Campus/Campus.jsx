@@ -8,7 +8,7 @@ import Gallery_4 from '../../assets/gallery-4.png'
 import White_arrow from '../../assets/white-arrow.png'
 
 
-const campus = () => {
+const Campus = () => {
   return (
     <div className='campus'>
       <div className="gallery">
@@ -22,4 +22,4 @@ const campus = () => {
   )
 }
 
-export default campus
+export default Campus
