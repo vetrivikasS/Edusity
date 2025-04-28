@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import './contact.css'
+import './Contact.css'
 import Msg_icon from '../../assets/msg-icon.png'
 import Mail_icon from '../../assets/mail-icon.png'
 import Phone_icon from '../../assets/phone-icon.png'
